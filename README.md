@@ -17,15 +17,15 @@
   ##### -> 	The kernel :
  ######  1.	It has complete control over all activities in the system. 
  ######  2.	It is that part of the operating system code that is always exists in memory. 
- #######  3.	It allows interactions between hardware and software components.
- #######  4.	It is a computer program at the core of a computer's operating system. 
+ ######  3.	It allows interactions between hardware and software components.
+ ######  4.	It is a computer program at the core of a computer's operating system. 
  ###
 
   ##### -> 	Task manager:
-  ####### 1.	It is a system monitoring program used to provide information about the processes and applications running on the system.
-  ####### 2.	It also provides general status of the computer. 
-  ####### 3.	It allows us to monitor the computer's performance or to close a program that is not responding.
-  ####### 4.	It reports the status of running programs.
+  ###### 1.	It is a system monitoring program used to provide information about the processes and applications running on the system.
+  ###### 2.	It also provides general status of the computer. 
+  ###### 3.	It allows us to monitor the computer's performance or to close a program that is not responding.
+  ###### 4.	It reports the status of running programs.
 
  ###
  ###
