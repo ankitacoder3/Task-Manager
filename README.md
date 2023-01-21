@@ -15,8 +15,8 @@
   ###
 
   ##### -> 	The kernel :
- #######  1.	It has complete control over all activities in the system. 
- #######  2.	It is that part of the operating system code that is always exists in memory. 
+ ######  1.	It has complete control over all activities in the system. 
+ ######  2.	It is that part of the operating system code that is always exists in memory. 
  #######  3.	It allows interactions between hardware and software components.
  #######  4.	It is a computer program at the core of a computer's operating system. 
  ###
